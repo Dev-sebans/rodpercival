@@ -1,0 +1,41 @@
+html, body {
+	color:#666;
+	font-family: Maiandra GD, Arial, Helvetica, sans-serif;
+	font-size:12px;
+	height:100%;
+	line-height:1.5em
+	;
+	min-height:100%;
+	margin:0;
+	padding:0;
+}
+
+
+a {color:#4E141A; text-decoration:underline;}
+h1 {color:#4E141A;font-size:25px;font-weight:100; text-transform:uppercase;margin-bottom:25px;}
+h2 {color:#666;font-size:16px;font-weight:100;}
+h3 {color:#666;font-size:1.2em;}
+
+.menuActive {
+	color:#4E141A;
+	font-size:15px;
+	font-weight:100;
+	text-transform:uppercase;
+	text-decoration:none;
+}
+.menu {
+	color:#4E141A;
+	font-size:15px;
+	font-weight:100;
+	text-transform:uppercase;
+	text-decoration:none;
+}
+
+footer{
+	display:block;
+	position:fixed;
+	bottom:0;
+	width:100%;
+	height: 52px;
+	background-color:#4E141A;
+}
